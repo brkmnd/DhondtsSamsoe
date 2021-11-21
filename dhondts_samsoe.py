@@ -25,7 +25,6 @@ total_antal =   ( lister0["A"]
                 + lister0["Ø"]
                 )
 
-
 lister = lister0
 
 #antal_mandater = 11
